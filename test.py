@@ -10,5 +10,4 @@ def greet_user():
     greeting = f"Hello, {name}! You are {age} years old."
     # Print the greeting message
     print(greeting)
-# Call the function to run the program
 greet_user()
